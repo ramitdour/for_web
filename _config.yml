@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/index.html",title: "Home Change"  , icon: Home }
   - {file: "README.md" ,title: "Home About Rd"  , icon: address-card}
-  - {file: "/ramit_resume.pdf" ,title: "CV/Resume"  }
+  - {file: "/RamitDour_InternshalaResume for kaatru.pdf" ,title: "CV/Resume"  }
   - {file: "/blog.md" ,title: "Blog"  }
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons

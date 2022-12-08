@@ -20,8 +20,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md" , ,title: Home About Rd  , icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:ramit.dour+github@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/ramitdour"}
+  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/ramit.dour/"}
+  - {title: Youtube, icon: youtube, url: "https://www.youtube.com/@ramitdour"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/ramitdour"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:

@@ -1,5 +1,5 @@
 title: "Welcome to Ramit's Website"
-author: "Ramit dur"
+author: "Ramit Dour"
 description: "Made with ❤️ in India 🇮🇳 by Ramit Dour"
 permalink: /:title/
 lang: "en"
@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/index.html",title: "Home Change"  , icon: Home }
   - {file: "README.md" ,title: "Home About Rd"  , icon: address-card}
-  - {file: "RamitDour_InternshalaResume for kaatru.pdf" ,title: "CV/Resume"  }
+  - {file: "resume.pdf" ,title: "CV/Resume"  }
   - {file: "/blog.md" ,title: "Blog"  }
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
@@ -27,7 +27,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Instagram, icon: instagram, url: "https://www.instagram.com/ramit.dour/"}
   - {title: Youtube, icon: youtube, url: "https://www.youtube.com/@ramitdour"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/ramitdour"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
